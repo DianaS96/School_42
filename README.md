@@ -12,7 +12,7 @@
 Other projects (presented in separate repos):
 - [FDF](https://github.com/DianaS96/FDF) <br/>
 Creating a simplified 3D graphic representation of a relief landscape 
-- [Minishell] <br/>
+- [Minishell](https://github.com/DianaS96/Minishell) <br/>
 Group project on creating a simple analogue of bash.
 Team: <br/>
 [Sslowpok](https://github.com/sslowpok)<br/>
