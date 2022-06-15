@@ -10,3 +10,4 @@
 | [Philosophers](https://github.com/DianaS96/School_42/tree/main/Philosophers)  | A solution to the dining philosophers problems in C using threads and mutex. | 100/100  |
 | [FDF](https://github.com/DianaS96/FDF)  | Creating a simplified 3D graphic representation of a relief landscape. | 125/100  |
 | [Minishell](https://github.com/DianaS96/Minishell)  | Group project on creating a simple analogue of bash. <br/> Team: <br/> [Sslowpok](https://github.com/sslowpok)<br/>[Coverand](https://github.com/DianaS96)<br/>| 101/100  |
+| [Cpp modules](https://github.com/DianaS96/School_42/tree/main/Cpp_module)  | 9 modules that introduces to the OOP in C++. | 100/100  |
