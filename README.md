@@ -11,5 +11,5 @@
 | [FDF](https://github.com/DianaS96/FDF)  | Creating a simplified 3D graphic representation of a relief landscape. | 125/100  |
 | [Minishell](https://github.com/DianaS96/Minishell)  | Group project on creating a simple analogue of bash. <br/> Team: <br/> [Sslowpok](https://github.com/sslowpok)<br/>[Coverand](https://github.com/DianaS96)<br/>| 101/100  |
 | [Cpp modules](https://github.com/DianaS96/School_42/tree/main/Cpp_module)  | 9 modules that introduces to the OOP in C++. | 100/100  |
-| [MiniRT](https://github.com/DianaS96/School_42/tree/main/Cpp_module)  | Simple ray-tracing engine. | 100/100  |
+| [MiniRT](https://github.com/DianaS96/miniRT)  | Simple ray-tracing engine. | 100/100  |
 | [ft_containers](https://github.com/DianaS96/ft_containers)  | Implementation of C++ STL containers (vector, stack, map and set). | 125/100  |
